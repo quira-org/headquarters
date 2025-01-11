@@ -9,3 +9,4 @@ To do either of these please [open an issue](https://github.com/quira-org/headqu
 
 ![HQ Header](https://github.com/quira-org/headquarters/blob/main/img/quira_hq.png)
 
+_We 💙 open source_
