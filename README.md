@@ -1,4 +1,4 @@
-# headquarters
+# Quira Headquarters 🌆
 
 ![HQ Header](https://github.com/quira-org/headquarters/blob/main/img/quira_hq.png)
 
